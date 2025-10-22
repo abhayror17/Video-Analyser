@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Video Analyzer",
+  "description": "An application that uses the Gemini 2.5 Pro model to analyze and summarize videos based on user prompts. Upload a video, provide a prompt, and get insightful analysis.",
+  "requestFramePermissions": []
+}
